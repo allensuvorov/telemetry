@@ -1,0 +1,1 @@
+In this folder, will be telemetry agent which will be compiled into a binary.
